@@ -25,5 +25,4 @@ Basic syntax, tips and tricks for Python 3.
 | Shortcut   | Action          |
 | ---------- | --------------- |
 | `Ctrl + S` | save a file     |
-| `Ctrl + B` | build a program |
 | `Ctrl + /` | comment line(s) |
