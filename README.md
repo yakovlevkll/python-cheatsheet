@@ -4,8 +4,6 @@ Basic syntax, tips and tricks for Python 3.
 
 ## Installing Python
 
----
-
 ### For Windows users
 
 1. Download Python package from official site (www.python.org). Use x86-x64 installer
@@ -18,14 +16,14 @@ Basic syntax, tips and tricks for Python 3.
 
 ## Installing VS Code
 
----
-
 ### Packages
 
 ### Settings
 
 ### Keyboard shortcuts
 
-Ctrl + S to save a file
-Ctrl + B to build a program
-Ctrl + / to comment line(s)
+| Shortcut   | Action          |
+| ---------- | --------------- |
+| `Ctrl + S` | save a file     |
+| `Ctrl + B` | build a program |
+| `Ctrl + /` | comment line(s) |
